@@ -1,1 +1,8 @@
 # yotube.api.pr.balasubramaniyan_V
+YOUTUBE:Youtube is a very popular and free video sharing website that allows registered users to upload and share video clips online. To watch the videos it is not mandatory to register.
+PYMONGO:MongoDB is a non-relational document database that provides support for JSON-like storage. The MongoDB database has a flexible data model that enables you to store unstructured data, and it provides full indexing support, and replication with rich and intuitive APIs.
+PSYCOPG2:Psycopg2 is a DB API 2.0 compliant PostgreSQL driver that is actively developed. It is designed for multi-threaded applications and manages its own connection pool.
+PANDAS:The name 'Pandas' comes from the econometrics term 'panel data' describing data sets that include observations over multiple time periods. The Pandas library was created as a high-level tool or building block for doing very practical real-world analysis in Python.
+STREAMLIT:Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc.
+GOOGLE API CLIENT:Google APIs give you programmatic access to Google Maps, Google Drive, YouTube, and many other Google products. To make coding against these APIs easier, Google provides client libraries that can reduce the amount of code you need to write and make your code more robust.
+ISODATE:The International Organization for Standardization (ISO) date and time format is a standard way to express a numeric calendar date -- and optionally time -- in a format that eliminates ambiguity between entities.
